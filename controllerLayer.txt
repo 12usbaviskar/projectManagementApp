@@ -2,8 +2,14 @@ public class user
 {
 
      public static void main(string [] args)
-  {
-     system.out.println("Hello.., I created project & i want to share with u..);
-  }
+        {
+                system.out.println("Hello.., I created project & i want to share with u..);
+        }
 
 }
+
+
+       public void m1() 
+        {
+               system.out.println("hello");
+        }
