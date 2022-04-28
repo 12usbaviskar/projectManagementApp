@@ -1,0 +1,9 @@
+public class user
+{
+
+     public static void main(string [] args)
+  {
+     system.out.println("Hello.., I created project & i want to share with u..);
+  }
+
+}
